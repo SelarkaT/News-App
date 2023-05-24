@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Hockey Canada leadership change 'the right 1st step,' says women's sports advocate | CBC Radio",
+            "description": "By changing its leadership, Hockey Canada can finally start the long process of earning back Canadians’ trust, says Brenda Andress. The women's sports advocate and former commissioner of the Canadian Women's Hockey League spoke to As It Happens host Nil Köksa…",
+            "url": "http://www.cbc.ca/radio/asithappens/hockey-canada-brenda-andress-1.6613126",
+            "urlToImage": "https://i.cbc.ca/1.6613134.1665524796!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brenda-andress.jpg",
+            "publishedAt": "2022-10-12T00:52:24.4500494Z",
+            "content": "A longtime advocate for women's sports says that by changing its leadership, Hockey Canada can finally start the long process of earning back Canadians' trust.\r\nOn Tuesday the national governing body… [+6751 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "She was a 'queen of two courts' - but the world looked away",
+            "description": "Ora Washington was a dominant champion across two sports in an age where prejudice and ignorance denied her proper recognition.",
+            "url": "http://www.bbc.co.uk/sport/63066765",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1393/production/_126911050_col-blockson-oramaewashingtonc1939_photobyjohnwmosley_blocksoncollectiontul.jpg",
+            "publishedAt": "2022-10-11T23:22:32.2925103Z",
+            "content": "Washington dominated two sports over two decades\r\nAt a glitzy downtown New York hotel, the recently founded Black Athletes Hall of Fame was holding its annual ceremony. \r\nIt was March 1976 and the ho… [+17370 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 12 octobre",
+            "description": "Retrouvez toute l'actualité sportive dans votre flash quotidien.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-12-octobre/1358851",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001698089/0:0,1997:1331-640-427-75/e1a36.jpg",
+            "publishedAt": "2022-10-11T22:34:47+00:00",
+            "content": "Kylian Mbappé veut quitter le Paris Saint-Germain dès janvier. Un PSG contraint au match nul contre Benfica au Parc des Princes mardi soir (1-1). L'Olympique de Marseille peut se relancer totalement … [+184 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Samit Sarkar",
+            "title": "EA Sports PGA Tour trailer teases first gameplay, platforms confirmed",
+            "description": "EA Sports PGA Tour has a spring 2023 release date, and Electronic Arts announced Tuesday that the golf game will be released on PC, PS5, and Xbox Series X. Check out the first trailer featuring 2015 Masters winner Jordan Spieth.",
+            "url": "https://www.polygon.com/23398692/ea-sports-pga-tour-trailer-ps5-xbox-series-x-pc",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q0r03nmRUWwTMeeiYaXeMbv_bmk=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24099928/ea_sports_pga_tour_swing_3840.jpg",
+            "publishedAt": "2022-10-11T17:03:59Z",
+            "content": "Confirmed for PS5 and Xbox Series X and PC!"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "Josh Allen Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/252408-the-voncast-with-josh-allen",
+            "urlToImage": null,
+            "publishedAt": "2022-10-07T17:37:16.3633408Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "George Pickens Blocking Drill ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/249191-george-pickens-is-underrated",
+            "urlToImage": null,
+            "publishedAt": "2022-09-15T15:07:20.3702294Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
